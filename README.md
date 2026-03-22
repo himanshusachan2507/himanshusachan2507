@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi , I'm Himanshu Sachan
 
-<!--
-**himanshusachan2507/himanshusachan2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full Stack Developer | Software Engineer
 
-Here are some ideas to get you started:
+I am a Full Stack Developer specializing in Java, Spring Boot, Node.js, JavaScript, PHP, and MySQL.  
+I build scalable, secure, and high-performance web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+- Java, Spring Boot  
+- Node.js, JavaScript  
+- PHP, MySQL  
+- REST APIs, Backend Development  
+- Full Stack Development  
+
+---
+
+## Projects
+- Full Stack Web Applications  
+- Java Spring Boot Projects  
+- Node.js REST APIs  
+
+---
+
+##  Connect with me
+- LinkedIn: https://www.linkedin.com/in/himanshu-sachan7267  
+
+---
+
+## About Me
+-  Software Engineer & Backend Developer  
+-  Continuously learning modern technologies  
+-  Passionate about building real-world solutions  
