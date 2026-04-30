@@ -1,34 +1,55 @@
-# Hi , I'm Himanshu Sachan
+Hi, I'm Himanshu Sachan
 
-## 🚀 Full Stack Developer | Software Engineer
+Full Stack Developer | Backend-Focused Engineer
 
-I am a Full Stack Developer specializing in Java, Spring Boot, Node.js, JavaScript, PHP, and MySQL.  
-I build scalable, secure, and high-performance web applications.
+I build scalable backend systems and web applications with a focus on performance, clean architecture, and maintainability. I enjoy designing APIs, working with databases, and solving real-world problems through code.
 
----
+Tech Stack
 
-## Skills
-- Java, Spring Boot  
-- Node.js, JavaScript  
-- PHP, MySQL  
-- REST APIs, Backend Development  
-- Full Stack Development  
+Backend
+Java (Spring Boot)
+Node.js (Express)
+PHP
 
----
+Frontend
+JavaScript
 
-## Projects
-- Full Stack Web Applications  
-- Java Spring Boot Projects  
-- Node.js REST APIs  
+Database
+MySQL
 
----
+Core Skills
+REST API Development
+Backend Architecture
+Database Design and Optimization
+Full Stack Development
 
-##  Connect with me
-- LinkedIn: https://www.linkedin.com/in/himanshu-sachan7267  
+What I Do
 
----
+Design and develop RESTful APIs
+Build full stack web applications from scratch
+Write clean, modular, and maintainable code
+Optimize backend performance and database queries
+Work on scalable system design
 
-## About Me
--  Software Engineer & Backend Developer  
--  Continuously learning modern technologies  
--  Passionate about building real-world solutions  
+Projects
+
+Full Stack Web Applications
+Spring Boot Backend Projects
+Node.js REST APIs
+
+Currently Learning
+
+System Design
+Scalable Architecture
+Performance Optimization
+
+Connect
+
+LinkedIn
+https://www.linkedin.com/in/himanshu-sachan7267
+
+About Me
+
+Software Engineer focused on backend development
+Interested in how systems work internally
+Continuously learning and improving development practices
