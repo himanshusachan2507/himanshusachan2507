@@ -1,4 +1,3 @@
-````md
 <h1 align="center">
   Hi 👋, I'm Himanshu Sachan
 </h1>
@@ -11,9 +10,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Full+Stack+Web+Developer;Java+%7C+Spring+Boot+%7C+Node.js+Developer;REST+API+%26+Database+Architecture;Modern+Software+Engineering+Enthusiast;Clean+Code+%7C+Performance+%7C+Scalability;Backend-Focused+Problem+Solver;Turning+Ideas+Into+Production-Ready+Applications" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himanshusachan2507&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 💡 Passionate Software Developer focused on building scalable backend systems and modern full stack applications.
 
@@ -30,22 +33,22 @@
 
 # 🛠️ Tech Stack
 
-## ⚡ Backend Development
+### ⚡ Backend Development
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,php" />
 </p>
 
-## 🎨 Frontend Development
+### 🎨 Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
-## 🗄️ Database Systems
+### 🗄️ Database Systems
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-## 🧰 Tools & Technologies
+### 🧰 Tools & Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
@@ -61,7 +64,7 @@
 ✅ Admin Dashboards  
 ✅ Database-Driven Platforms  
 ✅ Modern Responsive UI  
-✅ Clean & Maintainable Architectures
+✅ Clean & Maintainable Architectures  
 
 ---
 
@@ -94,7 +97,8 @@ Search, filter, export CSV, and data visualization dashboard system.
 # 🌍 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/himanshu-sachan7267" target="blank">
+
+<a href="https://www.linkedin.com/in/himanshu-sachan7267" target="_blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
@@ -102,9 +106,10 @@ Search, filter, export CSV, and data visualization dashboard system.
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 
-<a href="https://github.com/your-github-username">
+<a href="https://github.com/himanshusachan2507">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
+
 </p>
 
 ---
@@ -112,16 +117,34 @@ Search, filter, export CSV, and data visualization dashboard system.
 # 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=himanshusachan2507&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusachan2507&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshusachan2507&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshusachan2507&theme=tokyo-night" />
 </p>
 
 ---
 
 # ⚡ Developer Mindset
 
-```js
+```javascript
 const himanshu = {
   role: "Full Stack Developer",
   backend: ["Java", "Spring Boot", "Node.js", "PHP"],
@@ -130,11 +153,10 @@ const himanshu = {
   focus: ["Scalable Systems", "REST APIs", "Performance"],
   mindset: "Build • Learn • Optimize • Repeat"
 };
-````
+```
 
 ---
 
 <h3 align="center">
-  💻 Code. Build. Scale. Repeat. 🚀
+⭐ If you like my work, consider following me and checking out my repositories ⭐
 </h3>
-```
