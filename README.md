@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hi 👋, I'm Himanshu Sachan
+  Hi , I'm Himanshu Sachan
 </h1>
 
 <h3 align="center">
-  🚀 Full Stack Developer | Backend Engineer | API Developer
+   Full Stack Developer | Backend Developer | API Developer
 </h3>
 
 <p align="center">
@@ -16,85 +16,85 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
-💡 Passionate Software Developer focused on building scalable backend systems and modern full stack applications.
+ Passionate Software Developer focused on building scalable backend systems and modern full stack applications.
 
-🔥 I enjoy developing production-ready applications, designing REST APIs, optimizing databases, and solving real-world engineering problems through clean and maintainable code.
+ I enjoy developing production-ready applications, designing REST APIs, optimizing databases, and solving real-world engineering problems through clean and maintainable code.
 
-- ⚙️ Backend-Focused Full Stack Developer
-- 🚀 Building scalable & secure web applications
-- 🧠 Interested in System Design & Architecture
-- 📈 Focused on Performance Optimization
-- 🔐 Authentication • APIs • Admin Systems
-- 💻 Clean Code & Modern Development Practices
+-  Backend-Focused Full Stack Developer
+-  Building scalable & secure web applications
+-  Interested in System Design & Architecture
+-  Focused on Performance Optimization
+-  Authentication • APIs • Admin Systems
+-  Clean Code & Modern Development Practices
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
-### ⚡ Backend Development
+###  Backend Development
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,php" />
 </p>
 
-### 🎨 Frontend Development
+###  Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
-### 🗄️ Database Systems
+###  Database Systems
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🧰 Tools & Technologies
+###  Tools & Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-# 🔥 What I Build
+#  What I Build
 
-✅ Scalable Backend Systems  
-✅ RESTful APIs  
-✅ Full Stack Web Applications  
-✅ Secure Authentication Systems  
-✅ Admin Dashboards  
-✅ Database-Driven Platforms  
-✅ Modern Responsive UI  
-✅ Clean & Maintainable Architectures  
+ * Scalable Backend Systems  
+ * RESTful APIs  
+ * Full Stack Web Applications  
+ * Secure Authentication Systems  
+ * Admin Dashboards  
+ * Database-Driven Platforms  
+ * Modern Responsive UI  
+ * Clean & Maintainable Architectures  
 
 ---
 
-# 📌 Featured Projects
+#  Featured Projects
 
-### 🌐 Personal Portfolio Website
+###  Personal Portfolio Website
 Modern responsive portfolio showcasing projects, skills, and development work.
 
-### 🔐 Secure Admin Dashboard
+###  Secure Admin Dashboard
 Authentication-based admin system with CRUD operations and role-based management.
 
-### 📩 Contact Form System
+###  Contact Form System
 Backend-integrated contact system with database storage and validation.
 
-### 📊 Analytics Dashboard
+###  Analytics Dashboard
 Search, filter, export CSV, and data visualization dashboard system.
 
 ---
 
-# 🌱 Currently Learning
+#  Currently Learning
 
-- 🧠 System Design
-- ⚡ Scalable Architecture
-- 🚀 Performance Engineering
-- 🔒 API Security
-- ☁️ Advanced Backend Technologies
+-  System Design
+-  Scalable Architecture
+-  Performance Engineering
+-  API Security
+-  Advanced Backend Technologies
 
 ---
 
-# 🌍 Connect With Me
+#  Connect With Me
 
 <p align="left">
 
@@ -114,7 +114,7 @@ Search, filter, export CSV, and data visualization dashboard system.
 
 ---
 
-# 📈 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
 
@@ -126,7 +126,7 @@ Search, filter, export CSV, and data visualization dashboard system.
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshusachan2507&theme=tokyonight&hide_border=true" />
@@ -134,7 +134,7 @@ Search, filter, export CSV, and data visualization dashboard system.
 
 ---
 
-# 📊 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshusachan2507&theme=tokyo-night" />
@@ -142,7 +142,7 @@ Search, filter, export CSV, and data visualization dashboard system.
 
 ---
 
-# ⚡ Developer Mindset
+#  Developer Mindset
 
 ```javascript
 const himanshu = {
@@ -158,5 +158,5 @@ const himanshu = {
 ---
 
 <h3 align="center">
-⭐ If you like my work, consider following me and checking out my repositories ⭐
+ If you like my work, consider following me and checking out my repositories 
 </h3>
