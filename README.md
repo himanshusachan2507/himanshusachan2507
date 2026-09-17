@@ -35,7 +35,7 @@
 
 ###  Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,php" />
+  <img src="https://skillicons.dev/icons?i=Java,Spring,Nodejs,Express" />
 </p>
 
 ###  Frontend Development
@@ -45,7 +45,7 @@
 
 ###  Database Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=Mysql,Mongodb,Radis" />
 </p>
 
 ###  Tools & Technologies
